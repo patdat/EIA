@@ -1,0 +1,484 @@
+series_id,description,units
+PET.I000000202.M,U.S. Percent Total Imported by API Gravity of Crude Gravity 20.0 percent or less,%
+PET.I000000252.M,U.S. Percent Total Imported by API Gravity of Crude Gravity 20.1 to 25.0 percent,%
+PET.I000000302.M,U.S. Percent Total Imported by API Gravity of Crude Gravity 25.1 to 30.0 percent,%
+PET.I000000352.M,U.S. Percent Total Imported by API Gravity of Crude Gravity 30.1 to 35.0 percent,%
+PET.I000000402.M,U.S. Percent Total Imported by API Gravity of Crude Gravity 35.1 to 40.0 percent,%
+PET.I000000452.M,U.S. Percent Total Imported by API Gravity of Crude Gravity 40.1 to 45.0%,%
+PET.I000000992.M,U.S. Percent Total Imported by API Gravity of Crude Gravity 45.1% or more,%
+PET.MANFPAK1.M,Alaska North Slope Crude Oil Production,Mbbl
+PET.MANFPAK2.M,Alaska North Slope Crude Oil Production,Mbbl/d
+PET.MCRAP2A2.M,"Indiana, Illinois, Kentucky Refinery District API Gravity (Weighted Average) of Crude Oil Input to Refineries",D
+PET.MCRAP2B2.M,"Minnesota, Wisconsin, North and South Dakota Refinery District API Gravity (Weighted Average) of Crude Oil Input to Refineries",D
+PET.MCRAP2C2.M,"Oklahoma, Kansas, Missouri Refinery District API Gravity (Weighted Average) of Crude Oil Input to Refineries",D
+PET.MCRAP3A2.M,Texas Inland Refinery District API Gravity (Weighted Average) of Crude Oil Input to Refineries,D
+PET.MCRAP3B2.M,Texas Gulf Coast Refinery District API Gravity (Weighted Average) of Crude Oil Input to Refineries,D
+PET.MCRAP3C2.M,Louisiana Gulf Coast Refinery District API Gravity (Weighted Average) of Crude Oil Input to Refineries,D
+PET.MCRAP3D2.M,"North Louisiana, Arkansas Refinery District API Gravity (Weighted Average) of Crude Oil Input to Refineries",D
+PET.MCRAP3E2.M,New Mexico Refinery District API Gravity (Weighted Average) of Crude Oil Input to Refineries,D
+PET.MCRAPAP2.M,Appalachian No. 1 Refinery District API Gravity (Weighted Average) of Crude Oil Input to Refineries (Degrees),D
+PET.MCRAPEC2.M,East Coast Refinery District API Gravity (Weighted Average) of Crude Oil Input to Refineries,D
+PET.MCRAPP12.M,East Coast (PADD 1) API Gravity (Weighted Average) of Crude Oil Input to Refineries,D
+PET.MCRAPP22.M,Midwest (PADD 2) API Gravity (Weighted Average) of Crude Oil Input to Refineries,D
+PET.MCRAPP32.M,Gulf Coast (PADD 3) API Gravity (Weighted Average) of Crude Oil Input to Refineries,D
+PET.MCRAPP42.M,Rocky Mountains (PADD 4) API Gravity (Weighted Average) of Crude Oil Input to Refineries,D
+PET.MCRAPP52.M,West Coast (PADD 5) API Gravity (Weighted Average) of Crude Oil Input to Refineries,D
+PET.MCRAPUS2.M,U.S. API Gravity (Weighted Average) of Crude Oil Input to Refineries,D
+PET.MCREXCA1.M,U.S. Exports to Canada of Crude Oil,Mbbl
+PET.MCREXCH1.M,U.S. Exports to China of Crude Oil,Mbbl
+PET.MCREXHK1.M,U.S. Exports to Hong Kong of Crude Oil,Mbbl
+PET.MCREXJA1.M,U.S. Exports to Japan of Crude Oil,Mbbl
+PET.MCREXKS1.M,U.S. Exports to Korea of Crude Oil,Mbbl
+PET.MCREXMX1.M,U.S. Exports to Mexico of Crude Oil,Mbbl
+PET.MCREXP11.M,East Coast (PADD 1) Exports of Crude Oil,Mbbl
+PET.MCREXP21.M,Midwest (PADD 2) Exports of Crude Oil,Mbbl
+PET.MCREXP31.M,Gulf Coast (PADD 3) Exports of Crude Oil,Mbbl
+PET.MCREXP41.M,Rocky Mountain (PADD 4) Exports of Crude Oil,Mbbl
+PET.MCREXP51.M,West Coast (PADD 5) Exports of Crude Oil,Mbbl
+PET.MCREXTW1.M,U.S. Exports to Taiwan of Crude Oil,Mbbl
+PET.MCREXUS1.M,U.S. Exports of Crude Oil,Mbbl
+PET.MCREXVQ1.M,U.S. Exports to Virgin Islands of Crude Oil,Mbbl
+PET.MCREX_NUS-NAR_1.M,U.S. Exports to Argentina of Crude Oil,Mbbl
+PET.MCREX_NUS-NBF_1.M,U.S. Exports to Bahama Islands of Crude Oil,Mbbl
+PET.MCREX_NUS-NDA_1.M,U.S. Exports to Denmark of Crude Oil,Mbbl
+PET.MCREX_NUS-NDR_1.M,U.S. Exports to Dominican Republic of Crude Oil,Mbbl
+PET.MCREX_NUS-NFR_1.M,U.S. Exports to France of Crude Oil,Mbbl
+PET.MCREX_NUS-NGG_1.M,U.S. Exports to Georgia of Crude Oil,Mbbl
+PET.MCREX_NUS-NGI_1.M,U.S. Exports to Gibraltar of Crude Oil,Mbbl
+PET.MCREX_NUS-NGM_1.M,U.S. Exports to Germany of Crude Oil,Mbbl
+PET.MCREX_NUS-NIN_1.M,U.S. Exports to India of Crude Oil,Mbbl
+PET.MCREX_NUS-NIS_1.M,U.S. Exports to Israel of Crude Oil,Mbbl
+PET.MCREX_NUS-NIT_1.M,U.S. Exports to Italy of Crude Oil,Mbbl
+PET.MCREX_NUS-NNL_1.M,U.S. Exports to Netherlands of Crude Oil,Mbbl
+PET.MCREX_NUS-NNU_1.M,U.S. Exports to Nicaragua of Crude Oil,Mbbl
+PET.MCREX_NUS-NPE_1.M,U.S. Exports to Peru of Crude Oil,Mbbl
+PET.MCREX_NUS-NPM_1.M,U.S. Exports to Panama of Crude Oil,Mbbl
+PET.MCREX_NUS-NRM_1.M,U.S. Exports to Marshall Islands of Crude Oil,Mbbl
+PET.MCREX_NUS-NSN_1.M,U.S. Exports to Singapore of Crude Oil,Mbbl
+PET.MCREX_NUS-NSP_1.M,U.S. Exports to Spain of Crude Oil,Mbbl
+PET.MCREX_NUS-NSZ_1.M,U.S. Exports to Switzerland of Crude Oil,Mbbl
+PET.MCREX_NUS-NTH_1.M,U.S. Exports to Thailand of Crude Oil,Mbbl
+PET.MCREX_NUS-NUC_1.M,U.S. Exports to Curacao of Crude Oil,Mbbl
+PET.MCREX_NUS-NUK_1.M,U.S. Exports to United Kingdom of Crude Oil,Mbbl
+PET.MCRFP3FM1.M,Federal Offshore--Gulf of Mexico Field Production of Crude Oil,Mbbl
+PET.MCRFP5F1.M,Federal Offshore PADD 5 Field Production of Crude Oil,Mbbl
+PET.MCRFPAK1.M,Alaska Field Production of Crude Oil,Mbbl
+PET.MCRFPAKS1.M,Alaska South Field Production of Crude Oil,Mbbl
+PET.MCRFPAKS2.M,Alaska South Field Production of Crude Oil,Mbbl/d
+PET.MCRFPAL1.M,Alabama Field Production of Crude Oil,Mbbl
+PET.MCRFPAR1.M,Arkansas Field Production of Crude Oil,Mbbl
+PET.MCRFPAZ1.M,Arizona Field Production of Crude Oil,Mbbl
+PET.MCRFPCA1.M,California Field Production of Crude Oil,Mbbl
+PET.MCRFPCO1.M,Colorado Field Production of Crude Oil,Mbbl
+PET.MCRFPFL1.M,Florida Field Production of Crude Oil,Mbbl
+PET.MCRFPIL1.M,Illinois Field Production of Crude Oil,Mbbl
+PET.MCRFPIN1.M,Indiana Field Production of Crude Oil,Mbbl
+PET.MCRFPKS1.M,Kansas Field Production of Crude Oil,Mbbl
+PET.MCRFPKY1.M,Kentucky Field Production of Crude Oil,Mbbl
+PET.MCRFPLA1.M,Louisiana Field Production of Crude Oil,Mbbl
+PET.MCRFPMO1.M,Missouri Field Production of Crude Oil,Mbbl
+PET.MCRFPMS1.M,Mississippi Field Production of Crude Oil,Mbbl
+PET.MCRFPMT1.M,Montana Field Production of Crude Oil,Mbbl
+PET.MCRFPND1.M,North Dakota Field Production of Crude Oil,Mbbl
+PET.MCRFPNE1.M,Nebraska Field Production of Crude Oil,Mbbl
+PET.MCRFPNM1.M,New Mexico Field Production of Crude Oil,Mbbl
+PET.MCRFPNV1.M,Nevada Field Production of Crude Oil,Mbbl
+PET.MCRFPNY1.M,New York Field Production of Crude Oil,Mbbl
+PET.MCRFPOH1.M,Ohio Field Production of Crude Oil,Mbbl
+PET.MCRFPOK1.M,Oklahoma Field Production of Crude Oil,Mbbl
+PET.MCRFPP11.M,East Coast (PADD 1) Field Production of Crude Oil,Mbbl
+PET.MCRFPP21.M,Midwest (PADD 2) Field Production of Crude Oil,Mbbl
+PET.MCRFPP31.M,Gulf Coast (PADD 3) Field Production of Crude Oil,Mbbl
+PET.MCRFPP41.M,Rocky Mountain (PADD 4) Field Production of Crude Oil,Mbbl
+PET.MCRFPP51.M,West Coast (PADD 5) Field Production of Crude Oil,Mbbl
+PET.MCRFPPA1.M,Pennsylvania Field Production of Crude Oil,Mbbl
+PET.MCRFPSD1.M,South Dakota Field Production of Crude Oil,Mbbl
+PET.MCRFPTN1.M,Tennessee Field Production of Crude Oil,Mbbl
+PET.MCRFPTX1.M,Texas Field Production of Crude Oil,Mbbl
+PET.MCRFPUS1.M,U.S. Field Production of Crude Oil,Mbbl
+PET.MCRFPUT1.M,Utah Field Production of Crude Oil,Mbbl
+PET.MCRFPVA1.M,Virginia Field Production of Crude Oil,Mbbl
+PET.MCRFPWV1.M,West Virginia Field Production of Crude Oil,Mbbl
+PET.MCRFPWY1.M,Wyoming Field Production of Crude Oil,Mbbl
+PET.MCRFP_SMI_1.M,Michigan Field Production of Crude Oil,Mbbl
+PET.MCRIMIZ1.M,U.S. Imports from Iraq of Crude Oil,Mbbl
+PET.MCRIMLY1.M,U.S. Imports from Libya of Crude Oil,Mbbl
+PET.MCRIMMY1.M,U.S. Imports from Malaysia of Crude Oil,Mbbl
+PET.MCRIMP11.M,East Coast (PADD 1) Imports of Crude Oil,Mbbl
+PET.MCRIMP21.M,Midwest (PADD 2) Imports of Crude Oil,Mbbl
+PET.MCRIMP31.M,Gulf Coast (PADD 3) Imports of Crude Oil,Mbbl
+PET.MCRIMP41.M,Rocky Mountain (PADD 4) Imports of Crude Oil,Mbbl
+PET.MCRIMP51.M,West Coast (PADD 5) Imports of Crude Oil,Mbbl
+PET.MCRIMUS1.M,U.S. Imports of Crude Oil,Mbbl
+PET.MCRIMUSAG1.M,U.S. Imports from Algeria of Crude Oil,Mbbl
+PET.MCRIMUSAO1.M,U.S. Imports from Angola of Crude Oil,Mbbl
+PET.MCRIMUSAR1.M,U.S. Imports from Argentina of Crude Oil,Mbbl
+PET.MCRIMUSAS1.M,U.S. Imports from Australia of Crude Oil,Mbbl
+PET.MCRIMUSBR1.M,U.S. Imports from Brazil of Crude Oil,Mbbl
+PET.MCRIMUSBX1.M,U.S. Imports from Brunei of Crude Oil,Mbbl
+PET.MCRIMUSCA1.M,U.S. Imports from Canada of Crude Oil,Mbbl
+PET.MCRIMUSCF1.M,U.S. Imports from Congo (Brazzaville) of Crude Oil,Mbbl
+PET.MCRIMUSCM1.M,U.S. Imports from Cameroon of Crude Oil,Mbbl
+PET.MCRIMUSCO1.M,U.S. Imports from Colombia of Crude Oil,Mbbl
+PET.MCRIMUSEC1.M,U.S. Imports from Ecuador of Crude Oil,Mbbl
+PET.MCRIMUSEG1.M,U.S. Imports from Egypt of Crude Oil,Mbbl
+PET.MCRIMUSGB1.M,U.S. Imports from Gabon of Crude Oil,Mbbl
+PET.MCRIMUSGT1.M,U.S. Imports from Guatemala of Crude Oil,Mbbl
+PET.MCRIMUSID1.M,U.S. Imports from Indonesia of Crude Oil,Mbbl
+PET.MCRIMUSKU1.M,U.S. Imports from Kuwait of Crude Oil,Mbbl
+PET.MCRIMUSMX1.M,U.S. Imports from Mexico of Crude Oil,Mbbl
+PET.MCRIMUSNI1.M,U.S. Imports from Nigeria of Crude Oil,Mbbl
+PET.MCRIMUSNL1.M,U.S. Imports from Netherlands of Crude Oil,Mbbl
+PET.MCRIMUSNO1.M,U.S. Imports from Norway of Crude Oil,Mbbl
+PET.MCRIMUSPE1.M,U.S. Imports from Peru of Crude Oil,Mbbl
+PET.MCRIMUSPG1.M,U.S. Imports from Persian Gulf Countries of Crude Oil,Mbbl
+PET.MCRIMUSSA1.M,U.S. Imports from Saudi Arabia of Crude Oil,Mbbl
+PET.MCRIMUSSP1.M,U.S. Imports from Spain of Crude Oil,Mbbl
+PET.MCRIMUSTC1.M,U.S. Imports from United Arab Emirates of Crude Oil,Mbbl
+PET.MCRIMUSTD1.M,U.S. Imports from Trinidad and Tobago of Crude Oil,Mbbl
+PET.MCRIMUSTH1.M,U.S. Imports from Thailand of Crude Oil,Mbbl
+PET.MCRIMUSUK1.M,U.S. Imports from United Kingdom of Crude Oil,Mbbl
+PET.MCRIMUSVE1.M,U.S. Imports from Venezuela of Crude Oil,Mbbl
+PET.MCRIMUSVV1.M,U.S. Imports from Non-OPEC Countries of Crude Oil,Mbbl
+PET.MCRIMUSYE1.M,U.S. Imports from Yemen of Crude Oil,Mbbl
+PET.MCRIMXX1.M,U.S. Imports from OPEC Countries of Crude Oil,Mbbl
+PET.MCRIM_NUS-NAJ_1.M,U.S. Imports from Azerbaijan of Crude Oil,Mbbl
+PET.MCRIM_NUS-NAL_1.M,U.S. Imports from Albania of Crude Oil,Mbbl
+PET.MCRIM_NUS-NBH_1.M,U.S. Imports from Belize of Crude Oil,Mbbl
+PET.MCRIM_NUS-NBL_1.M,U.S. Imports from Bolivia of Crude Oil,Mbbl
+PET.MCRIM_NUS-NCD_1.M,U.S. Imports from Chad of Crude Oil,Mbbl
+PET.MCRIM_NUS-NDA_1.M,U.S. Imports from Denmark of Crude Oil,Mbbl
+PET.MCRIM_NUS-NEK_1.M,U.S. Imports from Equatorial Guinea of Crude Oil,Mbbl
+PET.MCRIM_NUS-NGH_1.M,U.S. Imports from Ghana of Crude Oil,Mbbl
+PET.MCRIM_NUS-NIT_1.M,U.S. Imports from Italy of Crude Oil,Mbbl
+PET.MCRIM_NUS-NIV_1.M,U.S. Imports from Ivory Coast (Cote d'Ivore) of Crude Oil,Mbbl
+PET.MCRIM_NUS-NKZ_1.M,U.S. Imports from Kazakhstan of Crude Oil,Mbbl
+PET.MCRIM_NUS-NMR_1.M,U.S. Imports from Mauritania of Crude Oil,Mbbl
+PET.MCRIM_NUS-NMU_1.M,U.S. Imports from Oman of Crude Oil,Mbbl
+PET.MCRIM_NUS-NPP_1.M,U.S. Imports from Papua New Guinea of Crude Oil,Mbbl
+PET.MCRIM_NUS-NRS_1.M,U.S. Imports from Russia of Crude Oil,Mbbl
+PET.MCRIM_NUS-NTS_1.M,U.S. Imports from Tunisia of Crude Oil,Mbbl
+PET.MCRIM_NUS-NVM_1.M,U.S. Imports from Vietnam of Crude Oil,Mbbl
+PET.MCRIPP11.M,East Coast (PADD 1) Imports by PADD of Processing of Crude Oil,Mbbl
+PET.MCRIPP1AG1.M,East Coast (PADD 1) Imports by PADD of Processing from Algeria of Crude Oil,Mbbl
+PET.MCRIPP1AO1.M,East Coast (PADD 1) Imports by PADD of Processing from Angola of Crude Oil,Mbbl
+PET.MCRIPP1BR1.M,East Coast (PADD 1) Imports by PADD of Processing from Brazil of Crude Oil,Mbbl
+PET.MCRIPP1CA1.M,East Coast (PADD 1) Imports by PADD of Processing from Canada of Crude Oil,Mbbl
+PET.MCRIPP1CM1.M,East Coast (PADD 1) Imports by PADD of Processing from Cameroon of Crude Oil,Mbbl
+PET.MCRIPP1CO1.M,East Coast (PADD 1) Imports by PADD of Processing from Colombia of Crude Oil,Mbbl
+PET.MCRIPP1EG1.M,East Coast (PADD 1) Imports by PADD of Processing from Egypt of Crude Oil,Mbbl
+PET.MCRIPP1GB1.M,East Coast (PADD 1) Imports by PADD of Processing from Gabon of Crude Oil,Mbbl
+PET.MCRIPP1MX1.M,East Coast (PADD 1) Imports by PADD of Processing from Mexico of Crude Oil,Mbbl
+PET.MCRIPP1NI1.M,East Coast (PADD 1) Imports by PADD of Processing from Nigeria of Crude Oil,Mbbl
+PET.MCRIPP1NO1.M,East Coast (PADD 1) Imports by PADD of Processing from Norway of Crude Oil,Mbbl
+PET.MCRIPP1PG1.M,East Coast (PADD 1) Imports by PADD of Processing from Persian Gulf Countries of Crude Oil,Mbbl
+PET.MCRIPP1SA1.M,East Coast (PADD 1) Imports by PADD of Processing from Saudi Arabia of Crude Oil,Mbbl
+PET.MCRIPP1TD1.M,East Coast (PADD 1) Imports by PADD of Processing from Trinidad and Tobago of Crude Oil,Mbbl
+PET.MCRIPP1UK1.M,East Coast (PADD 1) Imports by PADD of Processing from United Kingdom of Crude Oil,Mbbl
+PET.MCRIPP1VE1.M,East Coast (PADD 1) Imports by PADD of Processing from Venezuela of Crude Oil,Mbbl
+PET.MCRIPP1VV1.M,East Coast (PADD 1) Imports by PADD of Processing from Non-OPEC Countries of Crude Oil,Mbbl
+PET.MCRIPP21.M,Midwest (PADD 2) Imports by PADD of Processing of Crude Oil,Mbbl
+PET.MCRIPP2CA1.M,Midwest (PADD 2) Imports by PADD of Processing from Canada of Crude Oil,Mbbl
+PET.MCRIPP2CO1.M,Midwest (PADD 2) Imports by PADD of Processing from Colombia of Crude Oil,Mbbl
+PET.MCRIPP2MX1.M,Midwest (PADD 2) Imports by PADD of Processing from Mexico of Crude Oil,Mbbl
+PET.MCRIPP2PG1.M,Midwest (PADD 2) Imports by PADD of Processing from Persian Gulf Countries of Crude Oil,Mbbl
+PET.MCRIPP2SA1.M,Midwest (PADD 2) Imports by PADD of Processing from Saudi Arabia of Crude Oil,Mbbl
+PET.MCRIPP2VE1.M,Midwest (PADD 2) Imports by PADD of Processing from Venezuela of Crude Oil,Mbbl
+PET.MCRIPP2VV1.M,Midwest (PADD 2) Imports by PADD of Processing from Non-OPEC Countries of Crude Oil,Mbbl
+PET.MCRIPP31.M,Gulf Coast (PADD 3) Imports by PADD of Processing of Crude Oil,Mbbl
+PET.MCRIPP3AG1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Algeria of Crude Oil,Mbbl
+PET.MCRIPP3AO1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Angola of Crude Oil,Mbbl
+PET.MCRIPP3AR1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Argentina of Crude Oil,Mbbl
+PET.MCRIPP3AS1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Australia of Crude Oil,Mbbl
+PET.MCRIPP3CA1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Canada of Crude Oil,Mbbl
+PET.MCRIPP3CF1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Congo (Brazzaville) of Crude Oil,Mbbl
+PET.MCRIPP3CO1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Colombia of Crude Oil,Mbbl
+PET.MCRIPP3EC1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Ecuador of Crude Oil,Mbbl
+PET.MCRIPP3EG1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Egypt of Crude Oil,Mbbl
+PET.MCRIPP3GB1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Gabon of Crude Oil,Mbbl
+PET.MCRIPP3KU1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Kuwait of Crude Oil,Mbbl
+PET.MCRIPP3MX1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Mexico of Crude Oil,Mbbl
+PET.MCRIPP3NI1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Nigeria of Crude Oil,Mbbl
+PET.MCRIPP3NO1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Norway of Crude Oil,Mbbl
+PET.MCRIPP3PG1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Persian Gulf Countries of Crude Oil,Mbbl
+PET.MCRIPP3SA1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Saudi Arabia of Crude Oil,Mbbl
+PET.MCRIPP3TC1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from United Arab Emirates of Crude Oil,Mbbl
+PET.MCRIPP3TD1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Trinidad and Tobago of Crude Oil,Mbbl
+PET.MCRIPP3UK1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from United Kingdom of Crude Oil,Mbbl
+PET.MCRIPP3VE1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Venezuela of Crude Oil,Mbbl
+PET.MCRIPP3VV1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Non-OPEC Countries of Crude Oil,Mbbl
+PET.MCRIPP41.M,Rocky Mountain (PADD 4) Imports by PADD of Processing of Crude Oil,Mbbl
+PET.MCRIPP4CA1.M,Rocky Mountain (PADD 4) Imports by PADD of Processing from Canada of Crude Oil,Mbbl
+PET.MCRIPP4VV1.M,Rocky Mountain (PADD 4) Imports by PADD of Processing from Non-OPEC Countries of Crude Oil,Mbbl
+PET.MCRIPP51.M,West Coast (PADD 5) Imports by PADD of Processing of Crude Oil,Mbbl
+PET.MCRIPP5AR1.M,West Coast (PADD 5) Imports by PADD of Processing from Argentina of Crude Oil,Mbbl
+PET.MCRIPP5AS1.M,West Coast (PADD 5) Imports by PADD of Processing from Australia of Crude Oil,Mbbl
+PET.MCRIPP5CA1.M,West Coast (PADD 5) Imports by PADD of Processing from Canada of Crude Oil,Mbbl
+PET.MCRIPP5CF1.M,West Coast (PADD 5) Imports by PADD of Processing from Congo (Brazzaville) of Crude Oil,Mbbl
+PET.MCRIPP5CO1.M,West Coast (PADD 5) Imports by PADD of Processing from Colombia of Crude Oil,Mbbl
+PET.MCRIPP5EC1.M,West Coast (PADD 5) Imports by PADD of Processing from Ecuador of Crude Oil,Mbbl
+PET.MCRIPP5ID1.M,West Coast (PADD 5) Imports by PADD of Processing from Indonesia of Crude Oil,Mbbl
+PET.MCRIPP5MX1.M,West Coast (PADD 5) Imports by PADD of Processing from Mexico of Crude Oil,Mbbl
+PET.MCRIPP5PE1.M,West Coast (PADD 5) Imports by PADD of Processing from Peru of Crude Oil,Mbbl
+PET.MCRIPP5PG1.M,West Coast (PADD 5) Imports by PADD of Processing from Persian Gulf Countries of Crude Oil,Mbbl
+PET.MCRIPP5SA1.M,West Coast (PADD 5) Imports by PADD of Processing from Saudi Arabia of Crude Oil,Mbbl
+PET.MCRIPP5UK1.M,West Coast (PADD 5) Imports by PADD of Processing from United Kingdom of Crude Oil,Mbbl
+PET.MCRIPP5VE1.M,West Coast (PADD 5) Imports by PADD of Processing from Venezuela of Crude Oil,Mbbl
+PET.MCRIPP5VV1.M,West Coast (PADD 5) Imports by PADD of Processing from Non-OPEC Countries of Crude Oil,Mbbl
+PET.MCRIP_R10-ME0_1.M,East Coast (PADD 1) Imports by PADD of Processing from OPEC Countries of Crude Oil,Mbbl
+PET.MCRIP_R10-NAJ_1.M,East Coast (PADD 1) Imports by PADD of Processing from Azerbaijan of Crude Oil,Mbbl
+PET.MCRIP_R10-NAL_1.M,East Coast (PADD 1) Imports by PADD of Processing from Albania of Crude Oil,Mbbl
+PET.MCRIP_R10-NAR_1.M,East Coast (PADD 1) Imports by PADD of Processing from Argentina of Crude Oil,Mbbl
+PET.MCRIP_R10-NCD_1.M,East Coast (PADD 1) Imports by PADD of Processing from Chad of Crude Oil,Mbbl
+PET.MCRIP_R10-NCF_1.M,East Coast (PADD 1) Imports by PADD of Processing from Congo (Brazzaville) of Crude Oil,Mbbl
+PET.MCRIP_R10-NDA_1.M,East Coast (PADD 1) Imports by PADD of Processing from Denmark of Crude Oil,Mbbl
+PET.MCRIP_R10-NEK_1.M,East Coast (PADD 1) Imports by PADD of Processing from Equatorial Guinea of Crude Oil,Mbbl
+PET.MCRIP_R10-NGH_1.M,East Coast (PADD 1) Imports by PADD of Processing from Ghana of Crude Oil,Mbbl
+PET.MCRIP_R10-NIV_1.M,East Coast (PADD 1) Imports by PADD of Processing from Ivory Coast (Cote d'Ivore) of Crude Oil,Mbbl
+PET.MCRIP_R10-NIZ_1.M,East Coast (PADD 1) Imports by PADD of Processing from Iraq of Crude Oil,Mbbl
+PET.MCRIP_R10-NKZ_1.M,East Coast (PADD 1) Imports by PADD of Processing from Kazakhstan of Crude Oil,Mbbl
+PET.MCRIP_R10-NLY_1.M,East Coast (PADD 1) Imports by PADD of Processing from Libya of Crude Oil,Mbbl
+PET.MCRIP_R10-NMR_1.M,East Coast (PADD 1) Imports by PADD of Processing from Mauritania of Crude Oil,Mbbl
+PET.MCRIP_R10-NPE_1.M,East Coast (PADD 1) Imports by PADD of Processing from Peru of Crude Oil,Mbbl
+PET.MCRIP_R10-NRS_1.M,East Coast (PADD 1) Imports by PADD of Processing from Russia of Crude Oil,Mbbl
+PET.MCRIP_R10-NTS_1.M,East Coast (PADD 1) Imports by PADD of Processing from Tunisia of Crude Oil,Mbbl
+PET.MCRIP_R20-ME0_1.M,Midwest (PADD 2) Imports by PADD of Processing from OPEC Countries of Crude Oil,Mbbl
+PET.MCRIP_R20-NBR_1.M,Midwest (PADD 2) Imports by PADD of Processing from Brazil of Crude Oil,Mbbl
+PET.MCRIP_R20-NBX_1.M,Midwest (PADD 2) Imports by PADD of Processing from Brunei of Crude Oil,Mbbl
+PET.MCRIP_R20-NIZ_1.M,Midwest (PADD 2) Imports by PADD of Processing from Iraq of Crude Oil,Mbbl
+PET.MCRIP_R30-ME0_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from OPEC Countries of Crude Oil,Mbbl
+PET.MCRIP_R30-NAJ_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Azerbaijan of Crude Oil,Mbbl
+PET.MCRIP_R30-NBH_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Belize of Crude Oil,Mbbl
+PET.MCRIP_R30-NBL_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Bolivia of Crude Oil,Mbbl
+PET.MCRIP_R30-NBR_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Brazil of Crude Oil,Mbbl
+PET.MCRIP_R30-NCD_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Chad of Crude Oil,Mbbl
+PET.MCRIP_R30-NCM_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Cameroon of Crude Oil,Mbbl
+PET.MCRIP_R30-NDA_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Denmark of Crude Oil,Mbbl
+PET.MCRIP_R30-NEK_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Equatorial Guinea of Crude Oil,Mbbl
+PET.MCRIP_R30-NGH_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Ghana of Crude Oil,Mbbl
+PET.MCRIP_R30-NGT_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Guatemala of Crude Oil,Mbbl
+PET.MCRIP_R30-NIV_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Ivory Coast (Cote d'Ivore) of Crude Oil,Mbbl
+PET.MCRIP_R30-NIZ_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Iraq of Crude Oil,Mbbl
+PET.MCRIP_R30-NLY_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Libya of Crude Oil,Mbbl
+PET.MCRIP_R30-NMR_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Mauritania of Crude Oil,Mbbl
+PET.MCRIP_R30-NMU_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Oman of Crude Oil,Mbbl
+PET.MCRIP_R30-NNL_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Netherlands of Crude Oil,Mbbl
+PET.MCRIP_R30-NPE_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Peru of Crude Oil,Mbbl
+PET.MCRIP_R30-NRS_1.M,Gulf Coast (PADD 3) Imports by PADD of Processing from Russia of Crude Oil,Mbbl
+PET.MCRIP_R50-ME0_1.M,West Coast (PADD 5) Imports by PADD of Processing from OPEC Countries of Crude Oil,Mbbl
+PET.MCRIP_R50-NAO_1.M,West Coast (PADD 5) Imports by PADD of Processing from Angola of Crude Oil,Mbbl
+PET.MCRIP_R50-NBR_1.M,West Coast (PADD 5) Imports by PADD of Processing from Brazil of Crude Oil,Mbbl
+PET.MCRIP_R50-NBX_1.M,West Coast (PADD 5) Imports by PADD of Processing from Brunei of Crude Oil,Mbbl
+PET.MCRIP_R50-NEK_1.M,West Coast (PADD 5) Imports by PADD of Processing from Equatorial Guinea of Crude Oil,Mbbl
+PET.MCRIP_R50-NGH_1.M,West Coast (PADD 5) Imports by PADD of Processing from Ghana of Crude Oil,Mbbl
+PET.MCRIP_R50-NIZ_1.M,West Coast (PADD 5) Imports by PADD of Processing from Iraq of Crude Oil,Mbbl
+PET.MCRIP_R50-NKU_1.M,West Coast (PADD 5) Imports by PADD of Processing from Kuwait of Crude Oil,Mbbl
+PET.MCRIP_R50-NLY_1.M,West Coast (PADD 5) Imports by PADD of Processing from Libya of Crude Oil,Mbbl
+PET.MCRIP_R50-NMU_1.M,West Coast (PADD 5) Imports by PADD of Processing from Oman of Crude Oil,Mbbl
+PET.MCRIP_R50-NMY_1.M,West Coast (PADD 5) Imports by PADD of Processing from Malaysia of Crude Oil,Mbbl
+PET.MCRIP_R50-NNI_1.M,West Coast (PADD 5) Imports by PADD of Processing from Nigeria of Crude Oil,Mbbl
+PET.MCRIP_R50-NNL_1.M,West Coast (PADD 5) Imports by PADD of Processing from Netherlands of Crude Oil,Mbbl
+PET.MCRIP_R50-NNO_1.M,West Coast (PADD 5) Imports by PADD of Processing from Norway of Crude Oil,Mbbl
+PET.MCRIP_R50-NPP_1.M,West Coast (PADD 5) Imports by PADD of Processing from Papua New Guinea of Crude Oil,Mbbl
+PET.MCRIP_R50-NRS_1.M,West Coast (PADD 5) Imports by PADD of Processing from Russia of Crude Oil,Mbbl
+PET.MCRIP_R50-NTC_1.M,West Coast (PADD 5) Imports by PADD of Processing from United Arab Emirates of Crude Oil,Mbbl
+PET.MCRIP_R50-NTD_1.M,West Coast (PADD 5) Imports by PADD of Processing from Trinidad and Tobago of Crude Oil,Mbbl
+PET.MCRIP_R50-NTH_1.M,West Coast (PADD 5) Imports by PADD of Processing from Thailand of Crude Oil,Mbbl
+PET.MCRIP_R50-NVM_1.M,West Coast (PADD 5) Imports by PADD of Processing from Vietnam of Crude Oil,Mbbl
+PET.MCRIP_R50-NYE_1.M,West Coast (PADD 5) Imports by PADD of Processing from Yemen of Crude Oil,Mbbl
+PET.MCRNRP11.M,"East Coast (PADD 1) Net Receipts by Pipeline, Tanker, Barge and Rail from Other PADDs of Crude Oil",Mbbl
+PET.MCRNRP21.M,"Midwest (PADD 2) Net Receipts by Pipeline, Tanker, Barge and Rail from Other PADDs of Crude Oil",Mbbl
+PET.MCRNRP31.M,"Gulf Coast (PADD 3) Net Receipts by Pipeline, Tanker, Barge and Rail from Other PADDs of Crude Oil",Mbbl
+PET.MCRNRP41.M,"Rocky Mountain (PADD 4) Net Receipts by Pipeline, Tanker, Barge and Rail from Other PADDs of Crude Oil",Mbbl
+PET.MCRNRP51.M,"West Coast (PADD 5) Net Receipts by Pipeline, Tanker, Barge and Rail from Other PADDs of Crude Oil",Mbbl
+PET.MCRRI2A1.M,Refining District Indiana-Illinois-Kentucky Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRI2A2.M,Refining District Indiana-Illinois-Kentucky Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRI2B1.M,Refining District Minnesota-Wisconsin-North Dakota-South Dakota Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRI2B2.M,Refining District Minnesota-Wisconsin-North Dakota-South Dakota Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRI2C1.M,Refining District Oklahoma-Kansas-Missouri Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRI2C2.M,Refining District Oklahoma-Kansas-Missouri Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRI3A1.M,Refining District Texas Inland Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRI3A2.M,Refining District Texas Inland Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRI3B1.M,Refining District Texas Gulf Coast Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRI3B2.M,Refining District Texas Gulf Coast Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRI3C1.M,Refining District Louisiana Gulf Coast Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRI3C2.M,Refining District Louisiana Gulf Coast Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRI3D1.M,Refining District North Louisiana-Arkansas Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRI3D2.M,Refining District North Louisiana-Arkansas Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRI3E1.M,Refining District New Mexico Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRI3E2.M,Refining District New Mexico Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRIAP1.M,Refining District Appalachian No. 1 Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRIAP2.M,Refining District Appalachian No. 1 Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRIEC1.M,Refining District East Coast Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRIEC2.M,Refining District East Coast Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRIP11.M,East Coast (PADD 1) Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRIP12.M,East Coast (PADD 1) Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRIP21.M,Midwest (PADD 2) Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRIP22.M,Midwest (PADD 2) Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRIP31.M,Gulf Coast (PADD 3) Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRIP32.M,Gulf Coast (PADD 3) Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRIP41.M,Rocky Mountain (PADD 4) Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRIP42.M,Rocky Mountain (PADD 4) Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRIP51.M,West Coast (PADD 5) Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRIP52.M,West Coast (PADD 5) Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRIUS1.M,U.S. Refinery and Blender Net Input of Crude Oil,Mbbl
+PET.MCRRIUS2.M,U.S. Refinery and Blender Net Input of Crude Oil,Mbbl/d
+PET.MCRRO_NUS_1.M,U.S. Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_R10_1.M,East Coast (PADD 1) Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_R20_1.M,Midwest (PADD 2) Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_R2A_1.M,Refining District Indiana-Illinois-Kentucky Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_R2B_1.M,Refining District Minnesota-Wisconsin-North Dakota-South Dakota Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_R2C_1.M,Refining District Oklahoma-Kansas-Missouri Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_R30_1.M,Gulf Coast (PADD 3) Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_R3A_1.M,Refining District Texas Inland Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_R3B_1.M,Refining District Texas Gulf Coast Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_R3C_1.M,Refining District Louisiana Gulf Coast Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_R3D_1.M,Refining District North Louisiana-Arkansas Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_R3E_1.M,Refining District New Mexico Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_R40_1.M,Rocky Mountain (PADD 4) Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_R50_1.M,West Coast (PADD 5) Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_RAP_1.M,Refining District Appalachian No. 1 Refinery Net Input of Crude Oil,Mbbl
+PET.MCRRO_REC_1.M,Refining District East Coast Refinery Net Input of Crude Oil,Mbbl
+PET.MCRS12A2.M,"Indiana, Illinois, Kentucky Refinery District Sulfur Content (Weighted Average) of Crude Oil Input to Refineries",%
+PET.MCRS12B2.M,"Minnesota, Wisconsin, North and South Dakota Refinery District Sulfur Content (Weighted Average) of Crude Oil Input to Refineries",%
+PET.MCRS12C2.M,"Oklahoma, Kansas, Missouri Refinery District Sulfur Content (Weighted Average) of Crude Oil Input to Refineries",%
+PET.MCRS13A2.M,Texas Inland Refinery District Sulfur Content (Weighted Average) of Crude Oil Input to Refineries,%
+PET.MCRS13B2.M,Texas Gulf Coast Refinery District Sulfur Content (Weighted Average) of Crude Oil Input to Refineries,%
+PET.MCRS13C2.M,Louisiana Gulf Coast Refinery District Sulfur Content (Weighted Average) of Crude Oil Input to Refineries,%
+PET.MCRS13D2.M,"North Louisiana, Arkansas Refinery District Sulfur Content (Weighted Average) of Crude Oil Input to Refineries",%
+PET.MCRS13E2.M,New Mexico Refinery District Sulfur Content (Weighted Average) of Crude Oil Input to Refineries,%
+PET.MCRS1AP2.M,Appalachian No. 1 Refinery District Sulfur Content (Weighted Average) of Crude Oil Input to Refineries,%
+PET.MCRS1EC2.M,East Coast Refinery District Sulfur Content (Weighted Average) of Crude Oil Input to Refineries,%
+PET.MCRS1P12.M,East Coast (PADD 1) Sulfur Content (Weighted Average) of Crude Oil Input to Refineries,%
+PET.MCRS1P22.M,Midwest (PADD 2) Sulfur Content (Weighted Average) of Crude Oil Input to Refineries,%
+PET.MCRS1P32.M,Gulf Coast (PADD 3) Sulfur Content (Weighted Average) of Crude Oil Input to Refineries,%
+PET.MCRS1P42.M,Rocky Mountains (PADD 4) Sulfur Content (Weighted Average) of Crude Oil Input to Refineries,%
+PET.MCRS1P52.M,West Coast (PADD 5) Sulfur Content (Weighted Average) of Crude Oil Input to Refineries,%
+PET.MCRS1US2.M,U.S. Sulfur Content (Weighted Average) of Crude Oil Input to Refineries,%
+PET.MCRSAUS1.M,U.S. Crude Oil Stocks in Transit (on Ships) from Alaska,Mbbl
+PET.MCRSCP12.M,East Coast (PADD 1) Crude Oil Stock Change,Mbbl/d
+PET.MCRSCP22.M,Midwest (PADD 2) Crude Oil Stock Change,Mbbl/d
+PET.MCRSCP32.M,Gulf Coast (PADD 3) Crude Oil Stock Change,Mbbl/d
+PET.MCRSCP42.M,Rocky Mountain (PADD 4) Crude Oil Stock Change,Mbbl/d
+PET.MCRSCP52.M,West Coast (PADD 5) Crude Oil Stock Change,Mbbl/d
+PET.MCRSCUS2.M,U.S. Crude Oil Stock Change,Mbbl/d
+PET.MCRUA_NUS_1.M,U.S. Supply Adjustment of Crude Oil,Mbbl
+PET.MCRUA_R10_1.M,East Coast (PADD 1) Supply Adjustment of Crude Oil,Mbbl
+PET.MCRUA_R20_1.M,Midwest (PADD 2) Supply Adjustment of Crude Oil,Mbbl
+PET.MCRUA_R30_1.M,Gulf Coast (PADD 3) Supply Adjustment of Crude Oil,Mbbl
+PET.MCRUA_R40_1.M,Rocky Mountain (PADD 4) Supply Adjustment of Crude Oil,Mbbl
+PET.MCRUA_R50_1.M,West Coast (PADD 5) Supply Adjustment of Crude Oil,Mbbl
+PET.MCRUPP11.M,East Coast (PADD 1) Product Supplied of Crude Oil,Mbbl
+PET.MCRUPP12.M,East Coast (PADD 1) Product Supplied of Crude Oil,Mbbl/d
+PET.MCRUPP21.M,Midwest (PADD 2) Product Supplied of Crude Oil,Mbbl
+PET.MCRUPP22.M,Midwest (PADD 2) Product Supplied of Crude Oil,Mbbl/d
+PET.MCRUPP31.M,Gulf Coast (PADD 3) Product Supplied of Crude Oil,Mbbl
+PET.MCRUPP32.M,Gulf Coast (PADD 3) Product Supplied of Crude Oil,Mbbl/d
+PET.MCRUPP41.M,Rocky Mountain (PADD 4) Product Supplied of Crude Oil,Mbbl
+PET.MCRUPP42.M,Rocky Mountain (PADD 4) Product Supplied of Crude Oil,Mbbl/d
+PET.MCRUPP51.M,West Coast (PADD 5) Product Supplied of Crude Oil,Mbbl
+PET.MCRUPP52.M,West Coast (PADD 5) Product Supplied of Crude Oil,Mbbl/d
+PET.MCRUPUS1.M,U.S. Product Supplied of Crude Oil,Mbbl
+PET.MCRUPUS2.M,U.S. Product Supplied of Crude Oil,Mbbl/d
+PET.M_EPC00U_FPF_R48_MBBLD.M,Lower 48 States Crude Oil and Lease Condensate Production for Unknown API Gravity,Mbbl/d
+PET.M_EPC0_EEX_NUS-NCO_MBBL.M,U.S. Exports to Colombia of Crude Oil,Mbbl
+PET.M_EPC0_EEX_NUS-NSF_MBBL.M,U.S. Exports to South Africa of Crude Oil,Mbbl
+PET.M_EPC0_FPF_SID_MBBL.M,Idaho Field Production of Crude Oil,Mbbl
+PET.M_EPC0_SPC_NUS_PER.M,U.S. Percent of Crude Oil Stocks Held in SPR,%
+PET.M_EPC0_SPT_NUS_PER.M,U.S. Percent of Total Petroleum Stocks Held in SPR,%
+PET.M_EPC0_VSI_NUS_DAYS.M,U.S. SPR Stocks as Days of Supply of Total Petroleum Net Imports,Days
+PET.M_EPC20B_FPF_R48_MBBLD.M,Lower 48 States Crude Oil and Lease Condensate Production for 20.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC25B_FPF_R48_MBBLD.M,Lower 48 States Crude Oil and Lease Condensate Production for 20.1 to 25.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC30B_FPF_R48_MBBLD.M,Lower 48 States Crude Oil and Lease Condensate Production for 25.1 to 30.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_R3FM_MBBLD.M,Federal Offshore--Gulf of Mexico Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_R98_MBBLD.M,Other States Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SAR_MBBLD.M,Arkansas Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SCA_MBBLD.M,California Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SCO_MBBLD.M,Colorado Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SKS_MBBLD.M,Kansas Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SLA_MBBLD.M,Louisiana Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SMT_MBBLD.M,Montana Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SND_MBBLD.M,North Dakota Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SNM_MBBLD.M,New Mexico Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SOH_MBBLD.M,Ohio Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SOK_MBBLD.M,Oklahoma Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SPA_MBBLD.M,Pennsylvania Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_STX_MBBLD.M,Texas Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SUT_MBBLD.M,Utah Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SWV_MBBLD.M,West Virginia Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC30L_FPF_SWY_MBBLD.M,Wyoming Crude Oil and Lease Condensate Production for 30.0 or Lower Degrees API Gravity,Mbbl/d
+PET.M_EPC35B_FPF_R48_MBBLD.M,Lower 48 States Crude Oil and Lease Condensate Production for 30.1 to 35.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC40B_FPF_R48_MBBLD.M,Lower 48 States Crude Oil and Lease Condensate Production for 35.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_R3FM_MBBLD.M,Federal Offshore--Gulf of Mexico Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_R98_MBBLD.M,Other States Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SAR_MBBLD.M,Arkansas Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SCA_MBBLD.M,California Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SCO_MBBLD.M,Colorado Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SKS_MBBLD.M,Kansas Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SLA_MBBLD.M,Louisiana Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SMT_MBBLD.M,Montana Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SND_MBBLD.M,North Dakota Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SNM_MBBLD.M,New Mexico Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SOH_MBBLD.M,Ohio Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SOK_MBBLD.M,Oklahoma Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SPA_MBBLD.M,Pennsylvania Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_STX_MBBLD.M,Texas Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SUT_MBBLD.M,Utah Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SWV_MBBLD.M,West Virginia Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC43B_FPF_SWY_MBBLD.M,Wyoming Crude Oil and Lease Condensate Production for 30.1 to 40.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC45B_FPF_R48_MBBLD.M,Lower 48 States Crude Oil and Lease Condensate Production for 40.1 to 45.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC50B_FPF_R48_MBBLD.M,Lower 48 States Crude Oil and Lease Condensate Production for 45.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_R3FM_MBBLD.M,Federal Offshore--Gulf of Mexico Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_R98_MBBLD.M,Other States Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SAR_MBBLD.M,Arkansas Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SCA_MBBLD.M,California Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SCO_MBBLD.M,Colorado Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SKS_MBBLD.M,Kansas Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SLA_MBBLD.M,Louisiana Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SMT_MBBLD.M,Montana Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SND_MBBLD.M,North Dakota Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SNM_MBBLD.M,New Mexico Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SOH_MBBLD.M,Ohio Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SOK_MBBLD.M,Oklahoma Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SPA_MBBLD.M,Pennsylvania Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_STX_MBBLD.M,Texas Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SUT_MBBLD.M,Utah Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SWV_MBBLD.M,West Virginia Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC50G_FPF_SWY_MBBLD.M,Wyoming Crude Oil and Lease Condensate Production for 50.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_R3FM_MBBLD.M,Federal Offshore--Gulf of Mexico Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_R98_MBBLD.M,Other States Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SAR_MBBLD.M,Arkansas Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SCA_MBBLD.M,California Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SCO_MBBLD.M,Colorado Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SKS_MBBLD.M,Kansas Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SLA_MBBLD.M,Louisiana Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SMT_MBBLD.M,Montana Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SND_MBBLD.M,North Dakota Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SNM_MBBLD.M,New Mexico Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SOH_MBBLD.M,Ohio Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SOK_MBBLD.M,Oklahoma Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SPA_MBBLD.M,Pennsylvania Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_STX_MBBLD.M,Texas Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SUT_MBBLD.M,Utah Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SWV_MBBLD.M,West Virginia Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC54B_FPF_SWY_MBBLD.M,Wyoming Crude Oil and Lease Condensate Production for 40.1 to 50.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC55B_FPF_R48_MBBLD.M,Lower 48 States Crude Oil and Lease Condensate Production for 50.1 to 55.0 Degrees API Gravity,Mbbl/d
+PET.M_EPC55G_FPF_R48_MBBLD.M,Lower 48 States Crude Oil and Lease Condensate Production for 55.1 or Higher Degrees API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_R3FM_MBBLD.M,Federal Offshore--Gulf of Mexico Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_R48_MBBLD.M,Lower 48 States Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_R98_MBBLD.M,Other States Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SAR_MBBLD.M,Arkansas Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SCA_MBBLD.M,California Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SCO_MBBLD.M,Colorado Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SKS_MBBLD.M,Kansas Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SLA_MBBLD.M,Louisiana Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SMT_MBBLD.M,Montana Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SND_MBBLD.M,North Dakota Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SNM_MBBLD.M,New Mexico Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SOH_MBBLD.M,Ohio Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SOK_MBBLD.M,Oklahoma Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SPA_MBBLD.M,Pennsylvania Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_STX_MBBLD.M,Texas Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SUT_MBBLD.M,Utah Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SWV_MBBLD.M,West Virginia Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
+PET.M_EPC99A_FPF_SWY_MBBLD.M,Wyoming Crude Oil and Lease Condensate Production for all API Gravity,Mbbl/d
