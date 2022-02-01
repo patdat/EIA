@@ -1,4 +1,4 @@
-ï»¿Full Name,category_id
+Full Name,category_id
 Stocks > Total Stocks > by Product > Crude Oil (Including SPR),388163
 "Stocks > Total Stocks > by Product > Crude Oil, Commercial",388171
 "Stocks > Total Stocks > by Product > Crude Oil, Commercial, Alaska In-transit",388179
@@ -61,3 +61,11 @@ Summary > Weekly Supply Estimates > by Data Series > Â Imports - by SPR,236143
 Summary > Weekly Supply Estimates > by Data Series > Â Imports - into SPR by Others,236145
 Summary > Weekly Supply Estimates > by Data Series > Â Exports - Crude Oil,236354
 Summary > Weekly Supply Estimates > by Data Series > Â Net Imports - Crude Oil,236372
+EIA Data Sets > Short-Term Energy Outlook > U.S. Petroleum and Other Liquids > Supply > Crude Oil Production,829771
+EIA Data Sets > Short-Term Energy Outlook > U.S. Petroleum and Other Liquids > Supply > Net Imports,1039895
+EIA Data Sets > Short-Term Energy Outlook > U.S. Petroleum and Other Liquids > Supply > Adjustments,1039896
+EIA Data Sets > Short-Term Energy Outlook > U.S. Petroleum and Other Liquids > Inventories > U.S.,829766
+EIA Data Sets > Short-Term Energy Outlook > U.S. Petroleum and Other Liquids > Refining > Refinery and Blender Net Inputs,1039903
+EIA Data Sets > Short-Term Energy Outlook > U.S. Petroleum and Other Liquids > Refining > Refinery Outputs,1039904
+EIA Data Sets > Short-Term Energy Outlook > U.S. Petroleum and Other Liquids > Refining > Refining Capacity,1039905
+EIA Data Sets > Short-Term Energy Outlook > U.S. Petroleum and Other Liquids > Prices > Crude Oil,1039906
